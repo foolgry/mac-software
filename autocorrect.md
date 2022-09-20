@@ -11,7 +11,6 @@ curl -sSL https://git.io/JcGER | bash
 ```
 
 ### usage
-
 ```
 autocorrect text.txt
 你好 Hello 世界
